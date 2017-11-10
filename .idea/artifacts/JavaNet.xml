@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaNet">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaNet</output-path>
+    <root id="archive" name="JavaNet.jar">
+      <element id="module-output" name="JavaNet" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
